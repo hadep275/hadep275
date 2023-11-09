@@ -66,21 +66,20 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 
 - **Frontend Libraries/Frameworks:** 
   - React ![React Icon](https://img.icons8.com/color/48/000000/react.png)
-  - React Native ![React Native Icon](https://img.icons8.com/color/48/000000/react-native.png)
+  - ![React Native Icon](https://img.icons8.com/color/48/000000/react-native.png)
   - React Router ![React Router Icon](https://img.icons8.com/color/48/000000/react-router.png)
   - Tailwind CSS ![Tailwind CSS Icon](https://img.icons8.com/color/48/000000/tailwind.png)
   - Ant Design ![Ant Design Icon](https://img.icons8.com/color/48/000000/ant-design.png)
 
 - **Backend Libraries/Frameworks:** 
-  - MongoDB ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)
+  - ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)
   - Express.js ![Express.js Icon](https://img.icons8.com/color/48/000000/node-js.png)
 
 - **Design and Collaboration Tools:** 
-  - Canva ![Canva Icon](https://img.icons8.com/color/48/000000/canva.png)
-  - Figma ![Figma Icon](https://img.icons8.com/color/48/000000/figma.png)
+  - ![Canva Icon](https://img.icons8.com/color/48/000000/canva.png) ![Figma Icon](https://img.icons8.com/color/48/000000/figma.png)
 
 - **Version Control and Project Management:** 
-![GIT Icon](https://img.icons8.com/color/48/000000/git.png) ![GitHub Icon](https://img.icons8.com/color/48/000000/github--v1.png) ![Jira Icon](https://img.icons8.com/color/48/000000/jira.png)
+- ![GIT Icon](https://img.icons8.com/color/48/000000/git.png) ![GitHub Icon](https://img.icons8.com/color/48/000000/github--v1.png) ![Jira Icon](https://img.icons8.com/color/48/000000/jira.png)
 
 - **API Testing and Development:** 
   - Postman ![Postman Icon](https://img.icons8.com/color/48/000000/postman-api.png)
