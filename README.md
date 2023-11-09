@@ -72,8 +72,7 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 - ![GIT Icon](https://img.icons8.com/color/48/000000/git.png) ![GitHub Icon](https://img.icons8.com/color/48/000000/github--v1.png) ![Jira Icon](https://img.icons8.com/color/48/000000/jira.png)
 
 - **API Testing and Development:** 
-  - Postman ![Postman Icon](https://img.icons8.com/color/48/000000/postman-api.png)
-
+Postman ![Postman Icon](https://img.icons8.com/color/48/000000/postman-api.png)
 
 ## 🚗 Fun Facts
 
