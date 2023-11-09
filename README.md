@@ -16,12 +16,10 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 ## 🎓 Education & Certifications
 
 ### Full Stack Developer Program | InceptionU Canada
-📅 Feb 2023 – July 2023  
-🚀 6 months of intensive online training in the mystical arts of computer technology and project management. I've mastered JavaScript, React, and other spells necessary for web development using the MERN Stack.
+📅 July 2023  
 
 ### Bachelors of Business Administration | Mount Royal University
-📅 Dec 2021  
-🎓 Graduated with flying colors in the ancient art of Business Administration.
+📅 Dec 2021 
 
 ## 💼 Work Chronicles
 
