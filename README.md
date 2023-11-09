@@ -40,19 +40,7 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 ## 🛠️ Toolbox
 
 ## 💻 Tech Stack
-  - ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) ![SQL Icon](https://img.icons8.com/color/48/000000/sql.png) ![Python Icon](https://img.icons8.com/color/48/000000/python.png) ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png) ![Google Workspace Icon](https://img.icons8.com/color/48/000000/google-logo.png) ![RDBMS Icon](https://img.icons8.com/color/48/000000/database.png) ![Firebase Icon](https://img.icons8.com/color/48/000000/firebase.png) ![Cognos Icon](https://img.icons8.com/color/48/000000/ibm.png) ![JWT Icon](https://img.icons8.com/color/48/000000/lock-2.png) ![NPM Icon](https://img.icons8.com/color/48/000000/npm.png) ![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png) ![React Native Icon](https://img.icons8.com/color/48/000000/react-native.png) NPM ![NPM Icon](https://img.icons8.com/color/48/000000/npm.png)
-
-- **Backend Libraries/Frameworks:** 
-  - ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)
-
-- **Design and Collaboration Tools:** 
-  - ![Canva Icon](https://img.icons8.com/color/48/000000/canva.png) ![Figma Icon](https://img.icons8.com/color/48/000000/figma.png)
-
-- **Version Control and Project Management:** 
-- ![GIT Icon](https://img.icons8.com/color/48/000000/git.png) ![GitHub Icon](https://img.icons8.com/color/48/000000/github--v1.png) ![Jira Icon](https://img.icons8.com/color/48/000000/jira.png)
-
-- **API Testing and Development:** 
-Postman ![Postman Icon](https://img.icons8.com/color/48/000000/postman-api.png)
+  - ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) ![SQL Icon](https://img.icons8.com/color/48/000000/sql.png) ![Python Icon](https://img.icons8.com/color/48/000000/python.png) ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png) ![Google Workspace Icon](https://img.icons8.com/color/48/000000/google-logo.png) ![RDBMS Icon](https://img.icons8.com/color/48/000000/database.png) ![Firebase Icon](https://img.icons8.com/color/48/000000/firebase.png) ![Cognos Icon](https://img.icons8.com/color/48/000000/ibm.png) ![JWT Icon](https://img.icons8.com/color/48/000000/lock-2.png) ![NPM Icon](https://img.icons8.com/color/48/000000/npm.png) ![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png) ![React Native Icon](https://img.icons8.com/color/48/000000/react-native.png) NPM ![NPM Icon](https://img.icons8.com/color/48/000000/npm.png) ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png) ![Canva Icon](https://img.icons8.com/color/48/000000/canva.png) ![Figma Icon](https://img.icons8.com/color/48/000000/figma.png) ![GIT Icon](https://img.icons8.com/color/48/000000/git.png) ![GitHub Icon](https://img.icons8.com/color/48/000000/github--v1.png) ![Jira Icon](https://img.icons8.com/color/48/000000/jira.png)
 
 ## 🚗 Fun Facts
 
