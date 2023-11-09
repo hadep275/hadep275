@@ -41,28 +41,18 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 
 ### Tech Stack
 - **Languages:** 
-  - JavaScript (MERN) ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
-  - SQL ![SQL Icon](https://img.icons8.com/color/48/000000/sql.png)
-  - Python ![Python Icon](https://img.icons8.com/color/48/000000/python.png)
-  - HTML5 ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png)
-  - CSS3 ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png)
+  - ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) ![SQL Icon](https://img.icons8.com/color/48/000000/sql.png) ![Python Icon](https://img.icons8.com/color/48/000000/python.png) ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png)
   - Java ![Java Icon](https://img.icons8.com/color/48/000000/java.png)
 
 - **Tools:** 
   - VS Code ![VS Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code.png)
-  - Google Workspace ![Google Workspace Icon](https://img.icons8.com/color/48/000000/google-logo.png)
-  - RDBMS ![RDBMS Icon](https://img.icons8.com/color/48/000000/database.png)
-  - IBM Cognos Analytics ![Cognos Icon](https://img.icons8.com/color/48/000000/ibm.png)
+  -![Google Workspace Icon](https://img.icons8.com/color/48/000000/google-logo.png) ![RDBMS Icon](https://img.icons8.com/color/48/000000/database.png) ![Firebase Icon](https://img.icons8.com/color/48/000000/firebase.png) ![Cognos Icon](https://img.icons8.com/color/48/000000/ibm.png) ![JWT Icon](https://img.icons8.com/color/48/000000/lock-2.png) ![NPM Icon](https://img.icons8.com/color/48/000000/npm.png) ![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png)
   - Jupyter ![Jupyter Icon](https://img.icons8.com/color/48/000000/jupyter.png)
   - SQLite ![SQLite Icon](https://img.icons8.com/color/48/000000/sqlite.png)
-  - Firebase ![Firebase Icon](https://img.icons8.com/color/48/000000/firebase.png)
   - Vercel ![Vercel Icon](https://img.icons8.com/color/48/000000/vercel.png)
   - Ant Design ![Ant Design Icon](https://img.icons8.com/color/48/000000/ant-design.png)
   - Express.js ![Express.js Icon](https://img.icons8.com/color/48/000000/node-js.png)
   - Expo ![Expo Icon](https://img.icons8.com/ios/50/000000/expo.png)
-  - JWT ![JWT Icon](https://img.icons8.com/color/48/000000/lock-2.png)
-  - NPM ![NPM Icon](https://img.icons8.com/color/48/000000/npm.png)
-  - NodeJS ![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png)
 
 - **Frontend Libraries/Frameworks:** 
   - React ![React Icon](https://img.icons8.com/color/48/000000/react.png)
@@ -87,8 +77,7 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 
 ## 🚗 Fun Facts
 
-- I hold a valid Alberta class 5 Driver's License, ready to navigate both the digital and physical realms.
-- Fluent in the ancient languages of spoken and written English.
+- 
 
 So, grab a virtual coffee, scroll through my repositories, and let's embark on a coding adventure together! 🚀✨
 
