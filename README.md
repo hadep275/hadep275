@@ -36,11 +36,21 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 ## 💻 Tech Stack
   - ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) ![SQL Icon](https://img.icons8.com/color/48/000000/sql.png) ![Python Icon](https://img.icons8.com/color/48/000000/python.png) ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png) ![Google Workspace Icon](https://img.icons8.com/color/48/000000/google-logo.png) ![RDBMS Icon](https://img.icons8.com/color/48/000000/database.png) ![Firebase Icon](https://img.icons8.com/color/48/000000/firebase.png) ![Cognos Icon](https://img.icons8.com/color/48/000000/ibm.png) ![JWT Icon](https://img.icons8.com/color/48/000000/lock-2.png) ![NPM Icon](https://img.icons8.com/color/48/000000/npm.png) ![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png) ![React Native Icon](https://img.icons8.com/color/48/000000/react-native.png) ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png) ![Canva Icon](https://img.icons8.com/color/48/000000/canva.png) ![Figma Icon](https://img.icons8.com/color/48/000000/figma.png) ![GIT Icon](https://img.icons8.com/color/48/000000/git.png) ![GitHub Icon](https://img.icons8.com/color/48/000000/github--v1.png) ![Jira Icon](https://img.icons8.com/color/48/000000/jira.png)
 
+
+
+
+
+
+![image](https://github.com/hadep275/hadep275/assets/65734173/3d20620a-97bd-4aad-aaa4-d57eedc3d1c7) ![image](https://github.com/hadep275/hadep275/assets/65734173/3d14d608-c870-4ae8-ab4a-b644d2c8429c) ![image](https://github.com/hadep275/hadep275/assets/65734173/6107e5f1-8207-42f0-8675-dbb22cb85a9e) ![image](https://github.com/hadep275/hadep275/assets/65734173/11cd0f82-bce1-47d9-8cb3-742aa17fc0f0) ![image](https://github.com/hadep275/hadep275/assets/65734173/9fa6001e-93ab-4a06-b511-386cb295e10c)
+
+
+
+
+
+
 ## 🚗 Fun Fact 🎉
 
 👨‍✈️ As a seasoned pilot soaring through the skies, ✈ I've mastered both the art of coding and the art of aviation. ✈️ They say writing code is like flying a plane—you only really understand it when something goes wrong mid-air! ✈️ In both worlds, attention to detail is key, and I've learned that a well-organized cockpit is just as crucial as well-organized code🌐. Remember, in coding and flying, errors are called bugs and turbulence, respectively—both can be a bit bumpy, but with the right skills, you'll navigate through smoothly! 🛫
-
-![Pilot](https://emojicombos.com/ under the 'Aviation' section)
 
 So, grab a virtual coffee, scroll through my repositories, and let's embark on a coding adventure together! 🚀✨
 
