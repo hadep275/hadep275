@@ -39,31 +39,11 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 
 ## 🛠️ Toolbox
 
-### Tech Stack
-- **Languages:** 
-  - ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) ![SQL Icon](https://img.icons8.com/color/48/000000/sql.png) ![Python Icon](https://img.icons8.com/color/48/000000/python.png) ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png)
-  - Java ![Java Icon](https://img.icons8.com/color/48/000000/java.png)
-
-- **Tools:** 
-  - VS Code ![VS Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code.png)
-  -![Google Workspace Icon](https://img.icons8.com/color/48/000000/google-logo.png) ![RDBMS Icon](https://img.icons8.com/color/48/000000/database.png) ![Firebase Icon](https://img.icons8.com/color/48/000000/firebase.png) ![Cognos Icon](https://img.icons8.com/color/48/000000/ibm.png) ![JWT Icon](https://img.icons8.com/color/48/000000/lock-2.png) ![NPM Icon](https://img.icons8.com/color/48/000000/npm.png) ![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png)
-  - Jupyter ![Jupyter Icon](https://img.icons8.com/color/48/000000/jupyter.png)
-  - SQLite ![SQLite Icon](https://img.icons8.com/color/48/000000/sqlite.png)
-  - Vercel ![Vercel Icon](https://img.icons8.com/color/48/000000/vercel.png)
-  - Ant Design ![Ant Design Icon](https://img.icons8.com/color/48/000000/ant-design.png)
-  - Express.js ![Express.js Icon](https://img.icons8.com/color/48/000000/node-js.png)
-  - Expo ![Expo Icon](https://img.icons8.com/ios/50/000000/expo.png)
-
-- **Frontend Libraries/Frameworks:** 
-  - React ![React Icon](https://img.icons8.com/color/48/000000/react.png)
-  - ![React Native Icon](https://img.icons8.com/color/48/000000/react-native.png)
-  - React Router ![React Router Icon](https://img.icons8.com/color/48/000000/react-router.png)
-  - Tailwind CSS ![Tailwind CSS Icon](https://img.icons8.com/color/48/000000/tailwind.png)
-  - Ant Design ![Ant Design Icon](https://img.icons8.com/color/48/000000/ant-design.png)
+## 💻 Tech Stack
+  - ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) ![SQL Icon](https://img.icons8.com/color/48/000000/sql.png) ![Python Icon](https://img.icons8.com/color/48/000000/python.png) ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png) ![Google Workspace Icon](https://img.icons8.com/color/48/000000/google-logo.png) ![RDBMS Icon](https://img.icons8.com/color/48/000000/database.png) ![Firebase Icon](https://img.icons8.com/color/48/000000/firebase.png) ![Cognos Icon](https://img.icons8.com/color/48/000000/ibm.png) ![JWT Icon](https://img.icons8.com/color/48/000000/lock-2.png) ![NPM Icon](https://img.icons8.com/color/48/000000/npm.png) ![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png) ![React Native Icon](https://img.icons8.com/color/48/000000/react-native.png) NPM ![NPM Icon](https://img.icons8.com/color/48/000000/npm.png)
 
 - **Backend Libraries/Frameworks:** 
   - ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)
-  - Express.js ![Express.js Icon](https://img.icons8.com/color/48/000000/node-js.png)
 
 - **Design and Collaboration Tools:** 
   - ![Canva Icon](https://img.icons8.com/color/48/000000/canva.png) ![Figma Icon](https://img.icons8.com/color/48/000000/figma.png)
