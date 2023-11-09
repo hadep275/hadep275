@@ -40,10 +40,25 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 ## 🛠️ Toolbox
 
 ### Tech Stack
-- **Languages:** JavaScript (MERN), SQL, Python
-- **Tools:** VS Code, Google Workspace, RDBMS, IBM Cognos Analytics, Jupyter, SQLite
-- **Project Management:** Agile, Scrum, Kanban, Trello
-- **Spells:** Responsive Design, DevOps, TDD, Application Architecture
+- **Languages:** 
+  - JavaScript (MERN) ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
+  - SQL ![SQL Icon](https://img.icons8.com/color/48/000000/sql.png)
+  - Python ![Python Icon](https://img.icons8.com/color/48/000000/python.png)
+
+- **Tools:** 
+  - VS Code ![VS Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code.png)
+  - Google Workspace ![Google Workspace Icon](https://img.icons8.com/color/48/000000/google-logo.png)
+  - RDBMS ![RDBMS Icon](https://img.icons8.com/color/48/000000/database.png)
+  - IBM Cognos Analytics ![Cognos Icon](https://img.icons8.com/color/48/000000/ibm.png)
+  - Jupyter ![Jupyter Icon](https://img.icons8.com/color/48/000000/jupyter.png)
+  - SQLite ![SQLite Icon](https://img.icons8.com/color/48/000000/sqlite.png)
+
+- **Spells:** 
+  - Responsive Design ![Responsive Design Icon](https://img.icons8.com/color/48/000000/responsive.png)
+  - DevOps ![DevOps Icon](https://img.icons8.com/color/48/000000/continuous-delivery.png)
+  - TDD ![TDD Icon](https://img.icons8.com/color/48/000000/test-tube.png)
+  - Application Architecture ![Architecture Icon](https://img.icons8.com/color/48/000000/cloud-network.png)
+
 
 ## 🚗 Fun Facts
 
