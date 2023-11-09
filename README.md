@@ -15,11 +15,8 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 
 ## 🎓 Education & Certifications
 
-### Full Stack Developer Program | InceptionU Canada
-📅 July 2023  
-
-### Bachelors of Business Administration | Mount Royal University
-📅 Dec 2021 
+### Full Stack Developer Program | InceptionU Canada 📅 July 2023  
+### Bachelors of Business Administration | Mount Royal University 📅 Dec 2021 
 
 ## 💼 Work Chronicles
 
