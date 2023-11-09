@@ -27,7 +27,7 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 
 ### Full Stack Sorcerer at Expense Trend | Calgary, Alberta
 📅 Oct 2023 – Present  
-🚀 Leading the enchanting development of Expense Trend, a spellbinding budgeting app. Collaborating with a team of magical developers and designers to craft interfaces that sparkle. Juggling JavaScript (MERN stack), SQL, and Python spells to manage both the enchanted backend and frontend. Casting responsive design and test-driven development spells for reliability and security. Agile wizard, utilizing Scrum and Kanban to ensure successful spell executions. Keeping up with the latest magical practices for sustained competitiveness and innovation in the enchanted finance sector.
+🚀 Leading the enchanting development of Expense Trend, a spellbinding budgeting app. Collaborating with a team of magical developers and designers to craft interfaces that sparkle. Juggling JavaScript (MERN stack), SQL, and Python spells to manage both the enchanted backend and frontend. Casting responsive design and test-driven development spells for reliability and security. Agile wizard🔮, utilizing Scrum and Kanban to ensure successful spell executions. Keeping up with the latest magical practices for sustained competitiveness and innovation in the enchanted finance sector.
 
 ### Full Stack Developer at New Idea Machine
 🚀 Feb 2023 – Oct 2023  
@@ -36,9 +36,11 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 ## 💻 Tech Stack
   - ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) ![SQL Icon](https://img.icons8.com/color/48/000000/sql.png) ![Python Icon](https://img.icons8.com/color/48/000000/python.png) ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png) ![Google Workspace Icon](https://img.icons8.com/color/48/000000/google-logo.png) ![RDBMS Icon](https://img.icons8.com/color/48/000000/database.png) ![Firebase Icon](https://img.icons8.com/color/48/000000/firebase.png) ![Cognos Icon](https://img.icons8.com/color/48/000000/ibm.png) ![JWT Icon](https://img.icons8.com/color/48/000000/lock-2.png) ![NPM Icon](https://img.icons8.com/color/48/000000/npm.png) ![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png) ![React Native Icon](https://img.icons8.com/color/48/000000/react-native.png) ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png) ![Canva Icon](https://img.icons8.com/color/48/000000/canva.png) ![Figma Icon](https://img.icons8.com/color/48/000000/figma.png) ![GIT Icon](https://img.icons8.com/color/48/000000/git.png) ![GitHub Icon](https://img.icons8.com/color/48/000000/github--v1.png) ![Jira Icon](https://img.icons8.com/color/48/000000/jira.png)
 
-## 🚗 Fun Facts
+## 🚗 Fun Fact 🎉
 
-- 
+👨‍✈️ As a seasoned pilot soaring through the skies, ✈ I've mastered both the art of coding and the art of aviation. ✈️ They say writing code is like flying a plane—you only really understand it when something goes wrong mid-air! ✈️ In both worlds, attention to detail is key, and I've learned that a well-organized cockpit is just as crucial as well-organized code🌐. Remember, in coding and flying, errors are called bugs and turbulence, respectively—both can be a bit bumpy, but with the right skills, you'll navigate through smoothly! 🛫
+
+![Pilot](https://emojicombos.com/ under the 'Aviation' section)
 
 So, grab a virtual coffee, scroll through my repositories, and let's embark on a coding adventure together! 🚀✨
 
