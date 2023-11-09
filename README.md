@@ -44,6 +44,9 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
   - JavaScript (MERN) ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
   - SQL ![SQL Icon](https://img.icons8.com/color/48/000000/sql.png)
   - Python ![Python Icon](https://img.icons8.com/color/48/000000/python.png)
+  - HTML5 ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png)
+  - CSS3 ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png)
+  - Java ![Java Icon](https://img.icons8.com/color/48/000000/java.png)
 
 - **Tools:** 
   - VS Code ![VS Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code.png)
@@ -52,12 +55,37 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
   - IBM Cognos Analytics ![Cognos Icon](https://img.icons8.com/color/48/000000/ibm.png)
   - Jupyter ![Jupyter Icon](https://img.icons8.com/color/48/000000/jupyter.png)
   - SQLite ![SQLite Icon](https://img.icons8.com/color/48/000000/sqlite.png)
+  - Firebase ![Firebase Icon](https://img.icons8.com/color/48/000000/firebase.png)
+  - Vercel ![Vercel Icon](https://img.icons8.com/color/48/000000/vercel.png)
+  - Ant Design ![Ant Design Icon](https://img.icons8.com/color/48/000000/ant-design.png)
+  - Express.js ![Express.js Icon](https://img.icons8.com/color/48/000000/node-js.png)
+  - Expo ![Expo Icon](https://img.icons8.com/ios/50/000000/expo.png)
+  - JWT ![JWT Icon](https://img.icons8.com/color/48/000000/lock-2.png)
+  - NPM ![NPM Icon](https://img.icons8.com/color/48/000000/npm.png)
+  - NodeJS ![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png)
 
-- **Spells:** 
-  - Responsive Design ![Responsive Design Icon](https://img.icons8.com/color/48/000000/responsive.png)
-  - DevOps ![DevOps Icon](https://img.icons8.com/color/48/000000/continuous-delivery.png)
-  - TDD ![TDD Icon](https://img.icons8.com/color/48/000000/test-tube.png)
-  - Application Architecture ![Architecture Icon](https://img.icons8.com/color/48/000000/cloud-network.png)
+- **Frontend Libraries/Frameworks:** 
+  - React ![React Icon](https://img.icons8.com/color/48/000000/react.png)
+  - React Native ![React Native Icon](https://img.icons8.com/color/48/000000/react-native.png)
+  - React Router ![React Router Icon](https://img.icons8.com/color/48/000000/react-router.png)
+  - Tailwind CSS ![Tailwind CSS Icon](https://img.icons8.com/color/48/000000/tailwind.png)
+  - Ant Design ![Ant Design Icon](https://img.icons8.com/color/48/000000/ant-design.png)
+
+- **Backend Libraries/Frameworks:** 
+  - MongoDB ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)
+  - Express.js ![Express.js Icon](https://img.icons8.com/color/48/000000/node-js.png)
+
+- **Design and Collaboration Tools:** 
+  - Canva ![Canva Icon](https://img.icons8.com/color/48/000000/canva.png)
+  - Figma ![Figma Icon](https://img.icons8.com/color/48/000000/figma.png)
+
+- **Version Control and Project Management:** 
+  - GIT ![GIT Icon](https://img.icons8.com/color/48/000000/git.png)
+  - GitHub ![GitHub Icon](https://img.icons8.com/color/48/000000/github--v1.png)
+  - Jira ![Jira Icon](https://img.icons8.com/color/48/000000/jira.png)
+
+- **API Testing and Development:** 
+  - Postman ![Postman Icon](https://img.icons8.com/color/48/000000/postman-api.png)
 
 
 ## 🚗 Fun Facts
