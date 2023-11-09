@@ -25,19 +25,13 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 
 ## 💼 Work Chronicles
 
+### Full Stack Sorcerer at Expense Trend | Calgary, Alberta
+📅 Oct 2023 – Present  
+🚀 Leading the enchanting development of Expense Trend, a spellbinding budgeting app. Collaborating with a team of magical developers and designers to craft interfaces that sparkle. Juggling JavaScript (MERN stack), SQL, and Python spells to manage both the enchanted backend and frontend. Casting responsive design and test-driven development spells for reliability and security. Agile wizard, utilizing Scrum and Kanban to ensure successful spell executions. Keeping up with the latest magical practices for sustained competitiveness and innovation in the enchanted finance sector.
+
 ### Full Stack Developer at New Idea Machine
 🚀 Feb 2023 – Oct 2023  
 🌈 Collaborating with a dynamic team to bring ideas to life through intuitive interfaces and seamless user experiences. JavaScript (MERN stack) is my wand of choice.
-
-### Fraud & AML Analyst at Neo Financial Technologies
-🕵️‍♀️ Jan 2022 – Nov 2022  
-🛡️ Battling financial villains and safeguarding the kingdom from fraud and money laundering. Investigating, resolving complaints, and ensuring compliance were all in a day's work.
-
-### Tech Support Sorcerer at Concentrix Technologies
-🔮 March 2020 – Jan 2022  
-💻 Assisting callers with vaccine appointments and providing technical support for various Apple products. I've danced with iPhones, iPads, and Macs under the enchanted moonlight.
-
-## 🛠️ Toolbox
 
 ## 💻 Tech Stack
   - ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) ![SQL Icon](https://img.icons8.com/color/48/000000/sql.png) ![Python Icon](https://img.icons8.com/color/48/000000/python.png) ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png) ![Google Workspace Icon](https://img.icons8.com/color/48/000000/google-logo.png) ![RDBMS Icon](https://img.icons8.com/color/48/000000/database.png) ![Firebase Icon](https://img.icons8.com/color/48/000000/firebase.png) ![Cognos Icon](https://img.icons8.com/color/48/000000/ibm.png) ![JWT Icon](https://img.icons8.com/color/48/000000/lock-2.png) ![NPM Icon](https://img.icons8.com/color/48/000000/npm.png) ![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png) ![React Native Icon](https://img.icons8.com/color/48/000000/react-native.png) ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png) ![Canva Icon](https://img.icons8.com/color/48/000000/canva.png) ![Figma Icon](https://img.icons8.com/color/48/000000/figma.png) ![GIT Icon](https://img.icons8.com/color/48/000000/git.png) ![GitHub Icon](https://img.icons8.com/color/48/000000/github--v1.png) ![Jira Icon](https://img.icons8.com/color/48/000000/jira.png)
