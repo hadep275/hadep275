@@ -37,11 +37,11 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 
 
 
-## 🚗 Fun Fact 🎉
+<!-- ## 🚗 Fun Fact 🎉
 
 👨‍✈️ As a seasoned pilot soaring through the skies, 🌐 I've mastered both the art of coding and the art of aviation. ✈️ They say writing code is like flying a plane—you only really understand it when something goes wrong mid-air! ✈️ In both worlds, attention to detail is key, and I've learned that a well-organized cockpit is just as crucial as well-organized code🌐. Remember, in coding and flying, errors are called bugs and turbulence, respectively—both can be a bit bumpy, but with the right skills, you'll navigate through smoothly! 🛫
 
-So, grab a virtual coffee, scroll through my repositories, and let's embark on a coding adventure together! 🚀✨
+So, grab a virtual coffee, scroll through my repositories, and let's embark on a coding adventure together! 🚀✨ -->
 
 
 <!--
