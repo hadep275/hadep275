@@ -2,7 +2,7 @@
 
 Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Developer with a knack for turning caffeine into code and solving real-world problems with a dash of wit. I'm not just your average developer; I'm the maestro behind the scenes, orchestrating innovative solutions and crafting seamless user experiences.
 
-## 🚀 Current Endeavors
+<!-- ## 🚀 Current Endeavors
 
 ### Full Stack Developer at Expense Trend | Calgary, Alberta
 📈 Leading the charge in developing and maintaining Expense Trend, a revolutionary budgeting app startup set to redefine financial management. Collaborating with a squad of talented developers and designers, I'm here to make budgeting cool again!
@@ -11,7 +11,7 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 🔧 Crafting magic with a diverse set of technical skills, including JavaScript (MERN stack), SQL, and Python. From backend sorcery to frontend enchantment, I'm the wizard ensuring Expense Trend is not just an app but a magical experience.
 
 ### 🌐 Agile Extraordinaire
-🔄 Engaging in Agile project management practices using Scrum and Kanban methodologies. I juggle tasks faster than you can say "git commit," ensuring the successful execution of projects.
+🔄 Engaging in Agile project management practices using Scrum and Kanban methodologies. I juggle tasks faster than you can say "git commit," ensuring the successful execution of projects. -->
 
 
 <h1 id="user-content--about-me" dir="auto"><a class="heading-link" href="#-about-me">💻 Tech Stack 🌐 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h1>
