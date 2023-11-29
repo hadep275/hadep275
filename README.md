@@ -27,11 +27,11 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 
 ### Full Stack Sorcerer at Expense Trend | Calgary, Alberta
 📅 Oct 2023 – Present  
-🚀 Leading the enchanting development of Expense Trend, a spellbinding budgeting app. Collaborating with a team of magical developers and designers to craft interfaces that sparkle. Juggling JavaScript (MERN stack), SQL, and Python spells to manage both the enchanted backend and frontend. Casting responsive design and test-driven development spells for reliability and security. Agile wizard🔮, utilizing Scrum and Kanban to ensure successful spell executions. Keeping up with the latest magical practices for sustained competitiveness and innovation in the enchanted finance sector.
+🚀 Leading the enchanting development of Expense Trend, a spellbinding budgeting app. Collaborating with a team of magical developers and designers to craft interfaces that sparkle. Juggling JavaScript (MERN stack), SQL, and Python spells to manage both the enchanted backend and frontend. Casting responsive design and test-driven development spells for reliability and security. Agile wizard, utilizing Scrum and Kanban to ensure successful spell executions. Keeping up with the latest magical practices for sustained competitiveness and innovation in the enchanted finance sector.
 
 ### Full Stack Developer at New Idea Machine
 🚀 Feb 2023 – Oct 2023  
-🌈 Collaborating with a dynamic team to bring ideas to life through intuitive interfaces and seamless user experiences. JavaScript (MERN stack) is my wand of choice.
+Collaborating with a dynamic team to bring ideas to life through intuitive interfaces and seamless user experiences. JavaScript (MERN stack) is my wand of choice.
 
 
 
