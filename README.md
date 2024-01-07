@@ -23,7 +23,9 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 ### Full Stack Developer Program | InceptionU Canada 📅 July 2023  
 ### Bachelors of Business Administration | Mount Royal University 📅 Dec 2021 
 
-## 💼 Work Chronicles
+## 💼 Work Chronicles  
+
+![file-regular](https://github.com/hadep275/Resume/assets/65734173/a116c038-77b1-4a10-94ab-db32582fd4f2) [View Resume](https://hadep275.github.io/Resume/)
 
 ### Full Stack Sorcerer at Expense Trend | Calgary, Alberta
 📅 Oct 2023 – Present  
