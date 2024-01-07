@@ -25,7 +25,7 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 
 ## 💼 Work Chronicles  
 
-![file-regular](https://github.com/hadep275/Resume/assets/65734173/a116c038-77b1-4a10-94ab-db32582fd4f2) [View Resume](https://hadep275.github.io/Resume/)
+![file-regular](https://github.com/hadep275/Resume/assets/65734173/a116c038-77b1-4a10-94ab-db32582fd4f2) [Resume](https://hadep275.github.io/Resume/)
 
 ### Full Stack Sorcerer at Expense Trend | Calgary, Alberta
 📅 Oct 2023 – Present  
