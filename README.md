@@ -17,13 +17,11 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 
 <h1 id="user-content--about-me" dir="auto"><a class="heading-link" href="#-about-me">💻 Tech Stack <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h1>
 
-![code-solid (1)](https://github.com/hadep275/hadep275/assets/65734173/7dd3707d-db52-4901-bfed-a38b36179620)
-![css3-alt (1)](https://github.com/hadep275/hadep275/assets/65734173/9ec302b3-b7af-4c79-8747-e922a00251f0)
-![java (1)](https://github.com/hadep275/hadep275/assets/65734173/4d274406-cf28-4b7b-a845-979de04f487b)
-![js](https://github.com/hadep275/hadep275/assets/65734173/80986ace-0184-4292-9138-0f5948879012)
-![code-solid (4)](https://github.com/hadep275/hadep275/assets/65734173/a7d7f9ae-c63a-4816-b61c-b8a480d4d852)
-![code-solid (5)](https://github.com/hadep275/hadep275/assets/65734173/80703de7-3f3b-4415-bd0f-baf82979d3ed)
+
 ![code-solid (6)](https://github.com/hadep275/hadep275/assets/65734173/8597a031-91a0-42bb-bada-1a8e266f588c)
+![html5 (2)](https://github.com/hadep275/hadep275/assets/65734173/a2f7673f-8e8b-44e3-92b5-326884366400)
+
+
 
 
 ## 🎓 Education & Certifications
