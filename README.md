@@ -29,7 +29,6 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 
 ![vuejs (1)](https://github.com/hadep275/hadep275/assets/65734173/34e69dac-383b-48f9-b1b1-656a4b1fd8f9)
 
-![vuejs (2)](https://github.com/hadep275/hadep275/assets/65734173/27b2897f-8619-47db-bfa5-7d62781d4e10)
 
 ## 🎓 Education & Certifications
 
