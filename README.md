@@ -17,13 +17,7 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 <h1 id="user-content--about-me" dir="auto"><a class="heading-link" href="#-about-me">💻 Tech Stack <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h1>
 
 
-![code-solid (6)](https://github.com/hadep275/hadep275/assets/65734173/8597a031-91a0-42bb-bada-1a8e266f588c)     ![html5 (2)](https://github.com/hadep275/hadep275/assets/65734173/a2f7673f-8e8b-44e3-92b5-326884366400)              ![css3-alt (2)](https://github.com/hadep275/hadep275/assets/65734173/a54d0d42-b552-4b42-8709-7f3528be2898)
-
-![node-js (1)](https://github.com/hadep275/hadep275/assets/65734173/f3a301cc-3309-4b58-a9dc-7bc147c35a5b)
-
-![node (1)](https://github.com/hadep275/hadep275/assets/65734173/f05726ca-4816-49e7-8ef9-174e94be0661)
-
-![vuejs (1)](https://github.com/hadep275/hadep275/assets/65734173/34e69dac-383b-48f9-b1b1-656a4b1fd8f9)
+![code-solid (6)](https://github.com/hadep275/hadep275/assets/65734173/8597a031-91a0-42bb-bada-1a8e266f588c)             ![html5 (2)](https://github.com/hadep275/hadep275/assets/65734173/a2f7673f-8e8b-44e3-92b5-326884366400)                       ![css3-alt (2)](https://github.com/hadep275/hadep275/assets/65734173/a54d0d42-b552-4b42-8709-7f3528be2898)         ![node-js (1)](https://github.com/hadep275/hadep275/assets/65734173/f3a301cc-3309-4b58-a9dc-7bc147c35a5b)             ![node (1)](https://github.com/hadep275/hadep275/assets/65734173/f05726ca-4816-49e7-8ef9-174e94be0661)                     ![vuejs (1)](https://github.com/hadep275/hadep275/assets/65734173/34e69dac-383b-48f9-b1b1-656a4b1fd8f9)
 
 
 ## 🎓 Education & Certifications
