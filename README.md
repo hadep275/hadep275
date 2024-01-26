@@ -24,6 +24,8 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 
 ![css3-alt (2)](https://github.com/hadep275/hadep275/assets/65734173/a54d0d42-b552-4b42-8709-7f3528be2898)
 
+![node-js (1)](https://github.com/hadep275/hadep275/assets/65734173/f3a301cc-3309-4b58-a9dc-7bc147c35a5b)
+
 
 
 
