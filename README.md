@@ -19,9 +19,9 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 
 ![code-solid (1)](https://github.com/hadep275/hadep275/assets/65734173/7dd3707d-db52-4901-bfed-a38b36179620)
 ![css3-alt (1)](https://github.com/hadep275/hadep275/assets/65734173/9ec302b3-b7af-4c79-8747-e922a00251f0)
-![java (1)](https://github.com/hadep275/hadep275/assets/65734173/4d274406-cf28-4b7b-a845-979de04f487b)![js](https://github.com/hadep275/hadep275/assets/65734173/80986ace-0184-4292-9138-0f5948879012)
-![java (1)](https://github.com/hadep275/hadep275/assets/65734173/32d81fa5-eaf2-4fac-9011-80d0e4c40f3b)
-
+![java (1)](https://github.com/hadep275/hadep275/assets/65734173/4d274406-cf28-4b7b-a845-979de04f487b)
+![js](https://github.com/hadep275/hadep275/assets/65734173/80986ace-0184-4292-9138-0f5948879012)
+![code-solid (4)](https://github.com/hadep275/hadep275/assets/65734173/a7d7f9ae-c63a-4816-b61c-b8a480d4d852)
 
 
 
