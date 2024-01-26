@@ -19,6 +19,7 @@ Greetings fellow code enthusiasts! I'm Hikmah Adepoju, a seasoned Full Stack Dev
 
 
 ![code-solid (6)](https://github.com/hadep275/hadep275/assets/65734173/8597a031-91a0-42bb-bada-1a8e266f588c)
+
 ![html5 (2)](https://github.com/hadep275/hadep275/assets/65734173/a2f7673f-8e8b-44e3-92b5-326884366400)
 
 ![css3-alt (2)](https://github.com/hadep275/hadep275/assets/65734173/a54d0d42-b552-4b42-8709-7f3528be2898)
